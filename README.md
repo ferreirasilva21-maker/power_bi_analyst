@@ -1,3 +1,3 @@
 # power_bi_analyst
 
-Repositório relacionado a formação de Power BI Analyst
+O projeto é baseado no repositório original, mas haverá evoluções próprias.
